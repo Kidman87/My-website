@@ -1,0 +1,75 @@
+.title{
+    font-family: 'Lobster', cursive;
+    color: rgb(0, 0, 0);
+    text-align: center;   
+}
+.header{
+    font-family: 'Lobster';
+    padding: 10px;
+    border-bottom: 1px solid rgb(180, 196, 199);
+    text-align: right;
+}
+.flex{
+    display: flex;
+}
+.header-list{
+    flex-direction: row;
+    flex-basis: 100%;
+    font-size: 20px;
+}
+.logo{
+    
+}
+.main{
+    margin: 0 auto;
+    width: 1000px;
+}
+.header-link{
+    margin: 0px 10px;
+}
+.link{
+color: rgb(180, 196, 199);
+transition: color .2s;
+}
+body{
+    margin: 0;
+    background-color: rgb(156, 163, 163);
+}
+
+.img{
+    display: flex; 
+    padding: 20px;
+    text-align: left;    
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+    зфв
+}
+.myfoto{
+    border: 2px solid rgb(0, 0, 0);
+}
+.subtitle{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding-left: 10;
+    color:rgb(0, 0, 0)
+    margin-top 30px;
+}
+.footer{
+    border-top: 1px dashed rgb(180, 196, 199);
+    padding: 20px;
+    text-align: center;
+    color:rgb(0, 0, 0)
+    
+}
+.telefon{
+    color: rgb(180, 196, 199); 
+}
+.insta{
+    color: rgb(180, 196, 199);
+}
+.mail{
+    color: rgb(180, 196, 199); 
+}
